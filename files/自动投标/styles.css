@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:658px;
+  width:696px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -213,7 +213,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:18px;
+  width:35px;
   height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -222,18 +222,18 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Light', 'PingFang SC Light', 'PingFang SC';
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC';
   font-weight:200;
   font-style:normal;
   font-size:28px;
 }
 #u7294 {
   position:absolute;
-  left:279px;
-  top:185px;
-  width:18px;
+  left:270px;
+  top:182px;
+  width:35px;
   height:40px;
-  font-family:'PingFangSC-Light', 'PingFang SC Light', 'PingFang SC';
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC';
   font-weight:200;
   font-style:normal;
   font-size:28px;
@@ -242,7 +242,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:18px;
+  width:35px;
   white-space:nowrap;
 }
 #u7296_div {
@@ -393,7 +393,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:34px;
+  width:63px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -409,9 +409,9 @@
 }
 #u7306 {
   position:absolute;
-  left:403px;
+  left:373px;
   top:347px;
-  width:34px;
+  width:63px;
   height:16px;
   font-family:'PingFangSC-Light', 'PingFang SC Light', 'PingFang SC';
   font-weight:200;
@@ -422,7 +422,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:34px;
+  width:63px;
   white-space:nowrap;
 }
 #u7308 {
@@ -683,8 +683,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:150px;
-  height:150px;
+  width:203px;
+  height:235px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
   border:none;
@@ -695,15 +695,15 @@
 }
 #u7325 {
   position:absolute;
-  left:508px;
-  top:83px;
-  width:150px;
-  height:150px;
+  left:493px;
+  top:87px;
+  width:203px;
+  height:235px;
 }
 #u7326 {
   position:absolute;
   left:10px;
   top:10px;
-  width:130px;
+  width:183px;
   word-wrap:break-word;
 }
